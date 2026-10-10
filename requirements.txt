@@ -1,0 +1,6 @@
+jupyterlab>=4.0
+jupysql>=0.10
+sqlalchemy>=2.0
+pymysql>=1.1
+cryptography
+pandas>=2.0
